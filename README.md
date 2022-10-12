@@ -1,4 +1,4 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V6⚜️<br></h1>
+<h1 align="center">⚜️DHANU BOT V6⚜️<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/8251acab834f12e2e2904.jpg"
 
